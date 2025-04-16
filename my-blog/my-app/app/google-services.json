@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993643503413",
+    "project_id": "vyavasahay",
+    "storage_bucket": "vyavasahay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993643503413:android:90be041f3f62b3c6c7b67c",
+        "android_client_info": {
+          "package_name": "com.sathwika.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9zSuWUpoPp2CckWO7VcIGHSC8EHI_V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
