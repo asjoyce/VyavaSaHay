@@ -16,13 +16,6 @@ export default function TabLayout() {
           href: null, // 👈 Optional: prevent navigation tab
         }}
       />
-      <Tabs.Screen
-        name="explore"
-        options={{
-          title: 'Explore',
-          href: null, // 👈 Optional: prevent navigation tab
-        }}
-      />
     </Tabs>
   );
 }
